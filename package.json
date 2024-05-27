@@ -1,0 +1,50 @@
+{
+  "name": "cronometro-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.11.2",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/pickers": "^3.2.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "add": "^2.0.6",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.31",
+    "rc-time-picker": "^3.7.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-duration-picker": "^1.1.1",
+    "react-icons": "^3.11.0",
+    "react-live-clock": "^5.0.6",
+    "react-moment": "^1.0.0",
+    "react-notifications": "^1.7.2",
+    "react-notifications-component": "^2.4.1",
+    "react-scripts": "3.4.3",
+    "react-tabs": "^3.1.1",
+    "react-toastify": "^6.0.9",
+    "yarn": "^1.22.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
